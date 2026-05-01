@@ -1,3 +1,2 @@
-a = [4,1,2,3,4]
-a.remove(a[-1])
-print(a)
+lst = [1, 2, 3, 5, 3, 2, 1]
+print(len(lst))
